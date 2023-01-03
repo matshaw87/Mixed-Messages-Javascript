@@ -8,8 +8,7 @@ const messageGenerator = () => {
         {Matt: ' The TV doesnt work'},
         {Alex: 'Im tired'},
         {Thomas: ' The dog ate my cookies'},
-        {Boris: ' Do as I say not as I do'}
-    ]
+            ]
 
     let randomIndex =Math.floor((Math.random()*messages.length));
 
